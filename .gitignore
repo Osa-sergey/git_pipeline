@@ -1,0 +1,5 @@
+*.txt
+!/prep_files/*.txt
+/mlruns
+/mlartifacts
+/git_utils/__pycache__

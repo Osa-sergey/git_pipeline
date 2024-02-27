@@ -1,0 +1,9 @@
+mlflow:
+  uri: http://127.0.0.1:8082
+  exp_name: test
+  run_name: test_run
+  run_description:
+  log_params:
+    epochs: ${train.epochs}  
+    batch: ${train.batch}
+    

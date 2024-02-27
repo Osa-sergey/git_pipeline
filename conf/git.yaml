@@ -1,0 +1,8 @@
+git:
+  author: a a <o@s.com>
+  message: config
+  prepared_data:
+    allowed_folder: prep_files
+    allowed_prep_data:
+      - data.txt
+      - test1.txt

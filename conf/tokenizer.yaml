@@ -1,0 +1,8 @@
+tokenizer:
+  token_groups:
+    - mcc_tokens
+    - day_tokens
+    - year_tokens
+  spec_tokens:
+    - target_tokens
+    

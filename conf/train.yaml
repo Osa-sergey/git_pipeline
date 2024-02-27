@@ -1,0 +1,5 @@
+debug: False
+train:
+  lr: 0.0001
+  epochs: 25
+  batch: 128
